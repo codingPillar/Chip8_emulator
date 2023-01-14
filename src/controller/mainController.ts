@@ -35,7 +35,6 @@ export class MainController{
     private addKeypadClickEvent(): void {
         const keyPadCanvas = document.getElementById(KEYPAD_CANVAS_ID) as HTMLCanvasElement;
         keyPadCanvas.addEventListener('mousedown', (event: MouseEvent) => {
-            console.log('mouse down');
             const keyIndex = this.renderer.getKeypadRenderer().getKeyValue(event.offsetX, event.offsetY);
             this.model.pressKey(keyIndex);
         });
