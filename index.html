@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>CHIP-8 EMULATOR</title>
+        <link rel="stylesheet" href="./style.css" />
+    </head>
+    <body>
+        <div id="mainContainer">
+            <div id="title">CHIP-8</div>
+            <div id="firstRow">
+                <canvas id="keyPadCanvas"></canvas>
+                <canvas tabindex="1" id="mainCanvas"></canvas>
+            </div>
+            <canvas id="chipCanvas"></canvas>
+            <div id="btnContainer">
+                <button id="pauseBtn">PAUSE</button>
+                <button id="iterBtn">CYCLE</button>
+            </div>
+        </div>
+    </body>
+    <script type="module" src="./out/main.js"></script>
+</html>
