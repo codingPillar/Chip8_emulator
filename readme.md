@@ -1,3 +1,7 @@
+**Chip8 Emulator**
+
+**Author : Adam El-Houssami**
+
 GENERAL INFO:
 
 1- js ready files present in the out folder
