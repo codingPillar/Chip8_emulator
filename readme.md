@@ -14,7 +14,7 @@ USAGE:
 
 1- For now, the pong-game is preloaded, but other games are soon to be added (click on keypad buttons 1 and 4 respectively for up and down arrow).
 
-2- use can use the keypad on the left of the main display to click on buttons
+2- you can use the keypad on the left of the main display to click on buttons
 
 3- the lower windows shows the processor's main components state
 
