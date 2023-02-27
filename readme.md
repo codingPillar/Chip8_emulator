@@ -12,7 +12,7 @@ GENERAL INFO:
 
 USAGE:
 
-1- For now, the pong-game is preloaded, but other games are soon to be added.
+1- For now, the pong-game is preloaded, but other games are soon to be added (click on keypad buttons 1 and 4 respectively for up and down arrow).
 
 2- use can use the keypad on the left of the main display to click on buttons
 
